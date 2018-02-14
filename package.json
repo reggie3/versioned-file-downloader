@@ -1,0 +1,26 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "expo": "^25.0.0"
+  },
+  "private": false,
+  "name": "versioned-file-downloader",
+  "version": "1.0.0",
+  "files": ["index.js", "versionedFileDownloader.js"],
+  "description":
+    "A React Native component that uses a React Native WebView to provide a Leaflet map.",
+  "repository": {
+    "type": "git",
+    "url":
+      "git+https://github.com/reggie3/versioned-file-downloader.git"
+  },
+  "keywords": ["expo", "mobile", "file downloader", "download"],
+  "author": "Reginald Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url":
+      "https://github.com/reggie3/versioned-file-downloader/issues"
+  },
+  "homepage":
+    "https://github.com/reggie3/versioned-file-downloader#readme"
+}
